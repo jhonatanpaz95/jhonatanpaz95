@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou Jhonatan Paz 👋🧐
 
-<!--
-**jhonatanpaz95/jhonatanpaz95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://https://www.kaggle.com/jhonatanpazz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.kaggle.com/jhonatanpazz](https://www.linkedin.com/in/jhonatan-paz/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Jhonatan Github stats](https://github-readme-stats.vercel.app/api?username=jhonatanpaz95&show_icons=true&theme=radical)
+
+## Tecnologias que eu utilizo:
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
