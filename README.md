@@ -36,5 +36,5 @@ Analise exploratoria da Empresa Loggi: [Analise Exploratoria - Loggi](https://gi
 ## Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-paz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhonatanpaaz@gmail.com)
+<a href="mailto:jhonatanpaaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
