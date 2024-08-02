@@ -1,7 +1,7 @@
 ## Olá, eu sou Jhonatan Paz 👋🧐
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jhonatanpazz)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.kaggle.com/jhonatanpazz](https://www.linkedin.com/in/jhonatan-paz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-paz/)
 
 
 
