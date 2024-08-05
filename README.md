@@ -6,7 +6,7 @@ Meu nome é Jhonatan Paz. Sou um estudante de programação com foco em análise
 
 
 
-#### Por que Ciência de Dados?
+#### Por que Análise de Dados?
 “Análise de dados é como ser um detetive das informações digitais. Imagine-se com uma lupa, vasculhando planilhas, gráficos e tabelas em busca de pistas ocultas. Você desvenda mistérios, como por que as vendas de sorvetes aumentam quando a temperatura sobe ou como os gatos influenciam o mercado de roupas de lã. É como Sherlock Holmes, mas com menos cachimbo e mais Python!” 🕵️‍♂️🐍
 
 
