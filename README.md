@@ -30,6 +30,8 @@ Meu nome é Jhonatan Paz. Sou um estudante de programação com foco em análise
 
 
 Analise exploratoria da Empresa Loggi: [Analise Exploratoria - Loggi](https://github.com/jhonatanpaz95/Analise-Exploratoria-de-dados-Loggi)
+Prever os Preços dos imóveis do Airbnb com Machine-Learning: [Airbnb-Rio](https://github.com/jhonatanpaz95/Airbnb-Rio/blob/main/airbnb-rio.ipynb)
+
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jhonatanpazz)
 
